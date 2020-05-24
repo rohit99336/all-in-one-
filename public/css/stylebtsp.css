@@ -1,0 +1,50 @@
+.ti
+{
+    color :red;
+}
+
+.cbox
+{
+    border: 2px solid;
+    margin-top: 5px;
+}
+
+.araw
+{
+    border: 2px solid yellow;
+}
+
+.adiv
+{
+    height: 60px;
+    background-color: teal;
+}
+
+.bdiv
+{
+    height: 60px;
+    background-color:red;
+}
+
+.cdiv
+{
+    height: 60px;
+    background-color: blue;
+}
+
+.ddiv
+{
+    height: 60px;
+    background-color: rgb(161, 192, 20);
+}
+
+.media img
+{
+    height: 80px;
+    width: 80px;
+}
+
+.media
+{
+    margin-top: 10px;
+}
